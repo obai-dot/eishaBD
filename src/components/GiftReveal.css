@@ -656,3 +656,12 @@
   color: #482d3b;
   -webkit-text-fill-color: #482d3b;
 }
+.voucher-center h2,
+.voucher-center h2 * {
+  color: #482d3b !important;
+  -webkit-text-fill-color: #482d3b !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+  text-shadow: none !important;
+}
