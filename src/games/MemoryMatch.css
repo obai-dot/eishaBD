@@ -265,3 +265,13 @@
     transition: none;
   }
 }
+
+.memory-card h1 {
+  color: #482d3b;
+  -webkit-text-fill-color: #482d3b;
+}
+
+.memory-card h1 span {
+  color: #c77d99;
+  -webkit-text-fill-color: #c77d99;
+}

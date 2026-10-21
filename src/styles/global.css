@@ -182,3 +182,13 @@ button {
     scroll-behavior: auto !important;
   }
 }
+
+.birthday-card h1 {
+  color: #482d3b;
+  -webkit-text-fill-color: #482d3b;
+}
+
+.birthday-card h1 span {
+  color: #c77d99;
+  -webkit-text-fill-color: #c77d99;
+}
