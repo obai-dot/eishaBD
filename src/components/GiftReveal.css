@@ -652,3 +652,7 @@
   letter-spacing: 2px;
   font-weight: 700;
 }
+.voucher-center h2 {
+  color: #482d3b;
+  -webkit-text-fill-color: #482d3b;
+}
